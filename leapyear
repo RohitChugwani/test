@@ -1,0 +1,4 @@
+take a year from user and store it in avariable .
+now if the year is divisible by 4  then it is a leap year.also if the number is divisible by 4 then it must be divisible by 400 as well.
+if year is divisible by 4 then apply it is a leap year.
+apply if to check whether the year is divisible by 100 as well ,if it is then apply nested if to check whether it is divisible by 400 as well.if x%400 is eqaul to 0then number is a leap year else not.
