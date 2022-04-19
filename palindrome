@@ -1,0 +1,5 @@
+pseudo code for whether two number are palindrome:
+step1)take number from user in a variable x
+step2)now reverse the number and store the reversed number in another variable y
+step3) check whether x is equal to y by applying if else condition
+step4) if x==y number is palinndrome else not.
